@@ -2,6 +2,6 @@
     "Send": true,
     "Run": true,
     "Amount": 1000000,
-    "TelegramToken": "YOUR_TELEGRAM_BOT_TOKEN",
-    "ChatId": "YOUR_TELEGRAM_CHAT_ID"
+    "TelegramToken": "7635568030:AAFeiMj6MVnAY4f0zWuEvtnprwdy1dlMCDU",
+    "ChatId": "-1002592929516"
 }
