@@ -1,7 +1,7 @@
 {
     "Send": true,
     "Run": true,
-    "Amount": 300000,
+    "Amount": 3000000,
     "TelegramToken": "7635568030:AAFeiMj6MVnAY4f0zWuEvtnprwdy1dlMCDU",
     "ChatId": "-1002592929516"
 }
