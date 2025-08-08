@@ -4,6 +4,6 @@
     "Amount": 2000000,
     "TelegramToken": "7635568030:AAFeiMj6MVnAY4f0zWuEvtnprwdy1dlMCDU",
     "ChatId": "-1002592929516"
-    "ChatIdFile": "-4846359735",// Nhóm nhận file txt
+    "ChatIdFile": "-4846359735",
     "TelegramSendFile": true
 }
