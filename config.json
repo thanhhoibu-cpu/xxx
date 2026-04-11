@@ -6,6 +6,6 @@
     "ChatId": "8252147753",
     "ChatIdFile": "8252147753",
     "TelegramSendFile": true,
-    "LoginApiUrl": "http://localhost:38441/login",
+    "LoginApiUrl": "http://103.77.241.159:38441/login",
     "Send": true
 }
