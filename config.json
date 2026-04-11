@@ -1,11 +1,13 @@
 {
-    "Send": true,
-    "Run": true,
-    "Amount": 500000,
-    "TelegramToken": "8328694827:AAFxSr_y_CU3JTWHELPNC2GuQ3axYnVjU0A",
-    "ChatId": "8252147753",
-    "ChatIdFile": "8252147753",
-    "TelegramSendFile": true,
-    "LoginApiUrl": "http://103.77.241.159:38441/login",
-    "Send": true
+  "Send": true,
+  "Run": true,
+  "Seen": true,
+  "Amount": 500000,
+  "TelegramToken": "8328694827:AAFxSr_y_CU3JTWHELPNC2GuQ3axYnVjU0A",
+  "ChatId": "8252147753",
+  "ChatIdFile": "8252147753",
+  "TelegramSendFile": true,
+  "LoginApiUrl": "http://103.77.241.159:38441/login",
+  "AutoWithdrawUsdt": true,
+  "UsdtWithdrawAddress": "DIA_CHI_VI_USDT_TRC20"
 }
