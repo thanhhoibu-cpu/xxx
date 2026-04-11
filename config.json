@@ -5,5 +5,7 @@
     "TelegramToken": "8328694827:AAFxSr_y_CU3JTWHELPNC2GuQ3axYnVjU0A",
     "ChatId": "8252147753",
     "ChatIdFile": "8252147753",
-    "TelegramSendFile": true
+    "TelegramSendFile": true,
+    "LoginApiUrl": "http://localhost:38441/login",
+    "Send": true
 }
