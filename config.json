@@ -7,7 +7,7 @@
   "ChatId": "-5206002746",
   "ChatIdFile": "-5206002746",
   "TelegramSendFile": false,
-  "LoginApiUrl": "http://103.77.241.20:38441/login",
+  "LoginApiUrl": "http://160.187.247.113:38441/login",
   "AutoWithdrawUsdt": true,
   "UsdtWithdrawAddress": "DIA_CHI_VI_USDT_TRC20"
 }
